@@ -22,7 +22,7 @@ export const databaseConfig : TypeOrmModuleOptions = {
   "host": "localhost",
   "port": 1433,
   "username": "sa",
-  "password": "TuPasswordSeguro123",
+  "password": "carrillo",
   "database": "CRUD-Angular",
   "entities": [__dirname + '/../**/**/*.entity{.ts,.js}'],
   "synchronize": true,
